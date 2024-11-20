@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dea5b9bec68a1ba4fbcfd7b1fbb5051a, type: 3}
+  m_Name: Big Sword
+  m_EditorClassIdentifier: 
+  GeneralInformation:
+    ID: 0
+    ItemGUID: 
+    ItemName: Big Sword
+    ItemDescription: This is an item
+    ItemIcon: {fileID: 0}
+  ItemSubType: 0
+  PriceData:
+    CanBuy: 0
+    CanSell: 0
+    BuyPrice: 10
+    SellPrice: 5
+  EquipmentType: 0
