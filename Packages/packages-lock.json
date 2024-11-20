@@ -151,16 +151,11 @@
       }
     },
     "shatter-fantasy.sf-ui-elements": {
-      "version": "file:F:/Unity Packages/SF UI Elements",
+      "version": "https://github.com/Shatter-Fantasy/SF-UI-Elements.git",
       "depth": 0,
-      "source": "local",
-      "dependencies": {}
-    },
-    "shatter-fantasy.sf-utilities": {
-      "version": "file:F:/Unity Packages/SF Utilities",
-      "depth": 0,
-      "source": "local",
-      "dependencies": {}
+      "source": "git",
+      "dependencies": {},
+      "hash": "4f3751aea70a732e5837ef1a3f6940ea12711a36"
     },
     "com.unity.modules.accessibility": {
       "version": "1.0.0",
